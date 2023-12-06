@@ -1,31 +1,22 @@
-function cooking(num,param1,param2,param3,param4,param5){
-    let list = Array(Number.parseInt(num),param1,param2,param3,param4,param5);
-    let number = list[0]
-    for(i=1;i<=5;i++){
-        let operation = list[i]
-        if(operation==='chop'){
-            number /= 2
-            console.log(number)
-            continue
-        }  if(operation==="dice"){
-            number = Math.sqrt(number) 
-            console.log(number)
-            continue
-        }  if(operation==="spice"){
-            number ++
-            console.log(number)
-                continue
-        }  if(operation==='bake'){
-            number *= 3
-            console.log(number)
-                continue
-        }  if(operation==='fillet'){
-            number -= 0.2*number
-            console.log(number)
-                continue
-        }
-    }
-}
-cooking('9', 'dice', 'spice', 'chop', 'bake',
+function cookingByNumbers(numAsString,op1,op2,op3,op4,op5){
+    let num = Number(numAsString);
+    let arrOp = [];
+     arrOp.push(op1);
+     arrOp.push(op2);
+     arrOp.push(op3);
+     arrOp.push(op4);
+     arrOp.push(op5);
 
-'fillet')
+     for (let i = 0; i < arrOp.length; i++) {
+        let currentOperation = arrOp[i];
+
+        switch(currentOperation) {
+            case "chop": num /= 2; break;
+            case "dice": num = Math.sqrt(num); break;
+            case "spice": num += 1; break;
+            case "bake": num *= 3; break;
+            case "fillet": num *= 0.80; break;
+        }
+        console.log(num)
+     }
+}
