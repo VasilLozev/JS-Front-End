@@ -1,6 +1,7 @@
-function substring(string, num1, num2){
-    let str = String(string)
-    console.log(str.substring(num1,num2+1))
+function substring(string, startIndex, count){
+   
+    let result = string.substring(startIndex,Number(count+startIndex))
+    console.log(String(result))
 }
 
-substring('ASentence', 1, 8)
+substring('SkipWord', 4, 7)
