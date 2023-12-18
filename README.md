@@ -10,3 +10,4 @@ JS Front-End - октомври 2023
 
 [01.JS-Front-End-JS-Syntax-Fundamentals-Lab (1).docx](https://github.com/VasilLozev/JS-Front-End/files/13621362/01.JS-Front-End-JS-Syntax-Fundamentals-Lab.1.docx)
 [04.JS-Front-end-Objects-and-Classes-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13700551/04.JS-Front-end-Objects-and-Classes-Lab.docx)
+[04.JS-Front-end-Objects-and-Classes-Exercise.docx](https://github.com/VasilLozev/JS-Front-End/files/13708048/04.JS-Front-end-Objects-and-Classes-Exercise.docx)
