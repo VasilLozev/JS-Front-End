@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Element</title>
+</head>
+<body>
+<h1 id="e1">Hello, %insert name here%!
+
+
+    <p class="blue">Bl</p>
+    <p class="blue">Blue p</p>
+    <p class="blue">Blue p</p>
+    <p class="blue">Bl</p>
+    
+
+<button class="blue"
+     onclick="editElement(document.
+     getElementById('e1'),
+ '%insert name here%', 'Document Object Model')">
+    
+    Edit Element
+
+</button>
+<section class="blue">
+    Section
+</section>
+<script>
+
+    const headingElement = document.getElementById('e1');
+    headingElement.textContent = 'Changed text'
+    
+
+    const oneElement = document.querySelector('p')
+    const manyElements = document.querySelectorAll('p')
+    const elementsAsArray = Array.from(manyElements)
+
+    const elements = elementsAsArray.filter(p => p.textContent.length > 4);
+    console.log(elements, 'filtered elements')
+    for (const currentElement of manyElements) {
+        console.log('Current paragraph printed:', currentElement)
+    }
+console.log("oneElement",oneElement)
+console.log("manyElements",manyElements)
+</script>
+<script src="EditElement.js"></script>
+</body>
+</html>
