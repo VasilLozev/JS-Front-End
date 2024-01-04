@@ -13,3 +13,4 @@ JS Front-End - октомври 2023
 [04.JS-Front-end-Objects-and-Classes-Exercise.docx](https://github.com/VasilLozev/JS-Front-End/files/13708048/04.JS-Front-end-Objects-and-Classes-Exercise.docx)
 [05.JS-Front-End-DOM-Introduction-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13731304/05.JS-Front-End-DOM-Introduction-Lab.docx)
 [01. Subtraction_Условие.docx](https://github.com/VasilLozev/JS-Front-End/files/13790047/01.Subtraction_.docx)
+[06.JS-Front-End-DOM-Events-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13830881/06.JS-Front-End-DOM-Events-Lab.docx)
