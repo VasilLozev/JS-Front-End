@@ -1,7 +1,8 @@
 # JS-Front-End
 JS Front-End - октомври 2023
 [03.JS-Front-End-Functions-and-Statements-Exercise.docx](https://github.com/VasilLozev/JS-Front-End/files/13692840/03.JS-Front-End-Functions-and-Statements-Exercise.docx)
-[01.JS-Front-End-JS-Syntax-Fundamentals-Exercises.docx](https://github.com/VasilLozev/JS-Front-End/files/13589577/01.JS-Front-End-JS-Syntax-Fundamentals-Exercises.docx)
+[01.JS-Front-End-JS-Syntax-Fundamentals-Exercises.docx](https://github.com/VasilLozev/JS-Front-[06.JS-Front-End-DOM-Events-Exercise.docx](https://github.com/VasilLozev/JS-Front-End/files/13889106/06.JS-Front-End-DOM-Events-Exercise.docx)
+End/files/13589577/01.JS-Front-End-JS-Syntax-Fundamentals-Exercises.docx)
 [02.JS-Front-End-JS Arrays-and-Strings-Exercises.docx](https://github.com/VasilLozev/JS-Front-End/files/13676270/02.JS-Front-End-JS.Arrays-and-Strings-Exercises.docx)
 [03.JS-Front-End-Functions-and-Statements-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13686270/03.JS-Front-End-Functions-and-Statements-Lab.docx)
 [02.JS-Front-End-JS Arrays-and-Strings-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13649066/02.JS-Front-End-JS.Arrays-and-Strings-Lab.docx)
@@ -14,3 +15,4 @@ JS Front-End - октомври 2023
 [05.JS-Front-End-DOM-Introduction-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13731304/05.JS-Front-End-DOM-Introduction-Lab.docx)
 [01. Subtraction_Условие.docx](https://github.com/VasilLozev/JS-Front-End/files/13790047/01.Subtraction_.docx)
 [06.JS-Front-End-DOM-Events-Lab.docx](https://github.com/VasilLozev/JS-Front-End/files/13830881/06.JS-Front-End-DOM-Events-Lab.docx)
+[Uploading 06.JS-Front-End-DOM-Events-Exercise.docx…]()
